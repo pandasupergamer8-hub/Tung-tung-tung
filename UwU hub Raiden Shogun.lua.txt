@@ -3754,7 +3754,7 @@ local v495 = v466:MakeTab({"Shop", "shoppingCart"})
 local v496 = v466:MakeTab({"Misc", "settings"})
 
 v484:AddDiscordInvite({
-    Name = "UwU Hub |Raiden Shogun",
+    Name = "UwU Hub | Raiden Shogun",
     Description = " Raiden Shogun ⚡️⚡️⚡️",
     Logo = "rbxassetid://111683502591611",
     Invite = "https://genshin-impact.fandom.com/vi/wiki/Raiden_Shogun"
